@@ -1,0 +1,9 @@
+{
+	"name": "ADFworkspacevs",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a28c4fdd-cdb4-464c-809c-6d90f909b606",
+		"tenantId": "d8bf5cde-2ec8-4cba-b669-e366d7a9189c"
+	}
+}
